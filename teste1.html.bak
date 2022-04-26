@@ -39,7 +39,31 @@
 	 
 	 Idade: <input type="text" name="idade" size="4" maxlength="4"> <br>
 
+<br>
+	Sexo:<br>
+	
+	<input type="radio" name="sexo" value="F"> Feminino <br>
 
+	<input type="radio" name="sexo" value="M"> Masculino <br>
+
+	<input type="radio" name="sexo" value="O"> Outros <br>
+	
+<br>
+	
+	Assunto: <input type="text" name="assunto" size="30"> <br>
+	
+<br>
+	
+	<input type="reset" value="Limpar"> <input type="submit" value="Login">
+	
+<br>
+<br>
+	
+	<p>Mensagem: </p>
+	<textarea cols="30" rows="5"> </textarea>
+	
+<br>
+<br>
 	
 	<input type="reset" value="Limpar"> <input type="submit" value="Enviar">
 	
